@@ -1,0 +1,15 @@
+@27.5|-13|1|1.129204|30.41792|562|474.5|
+@27.5|-8|0|1.287701|28.64001|557|474.5|
+@27.5|0|0|1.570796|27.5|549|474.5|
+@27.5|8|0|1.853892|28.64001|541|474.5|
+@27.5|13|1|2.012389|30.41792|536|474.5|
+@-22.5|-10|1|-1.152572|24.62214|559|424.5|
+@0|0|0|1.570796|0|549|447|
+@-22.5|10|1|4.294165|24.62214|539|424.5|
+@0|0|1|0|0|0|0|
+@vis_point=True
+@color_point=255,0,0,255
+@robot_type=10
+@ground_name=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\projects that remain unfinished\Robot Story Making\src\images\map01.png
+@trackline_filename=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\projects that remain unfinished\Robot Story Making\MainActivity.trl
+@include_trackline=False
