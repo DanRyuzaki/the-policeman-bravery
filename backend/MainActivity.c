@@ -1,7 +1,7 @@
 /** Robot Story Making : R3C Camp & Coding Competition
    Theme : A Hero Saves The Day
    Senior Coders
-   Team Camarin High School
+   Team Camarin High School (CHS)
    John Leinard Flores
    Danielle Adan **/
 
