@@ -1,27 +1,13 @@
-1.In a distant place there is a policeman named Leinard, 
-He was known as the most reliable policeman in their neighborhood
-
-2.he patrols every day to keep the peace in their place, this is one of
-his favorite job, serving the people.
-
-3.He went to a mall to check the people's safety, later on, he noticed
-a man that behaving strangely.
-
-4.The strange man shouted: "I'm carrying a bag that contains a bomb!"
-People starts to panic, but Leinard's bravery starts to kicks in.
-
-5. He immediately grab the bag and put the bomb inside his vehicle!
-He went to nearest open area where he can drop the bomb.
-
-6. In the middle of Leinard's haste, he's about to reach his destination
-but suddenly, there's a big chunk of wood that blocks the road!
-
-7.The bomb was about to explode but he had not yet reached the open area. When he reached the open area, he immediately
-threw the bomb there and the bomb exploded there.
-
-8.As he completed his mission, he went back to checks the people safety,
-when he got there he was greeted by the people there 
-“You're  a hero to be relied upon by all ”.
-
-
- lcd("%d",storeAnalog0and4);
+1.
+2.
+2.5.
+3.
+4.
+5.
+6.5.
+7.
+7.2.
+7.5.
+7.9.
+8.
+8.5.
