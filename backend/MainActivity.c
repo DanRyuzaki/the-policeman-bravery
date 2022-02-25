@@ -23,7 +23,7 @@ void loop(){
     //All voids and functions will be declared here
     basicLineTracingActivity(); //major activity
     basicCrosslineTracingActivity(); //major activity
-    endingSceneActivity(storeAnalog0and4, 160000); //sub activity
+    endingSceneActivity(storeAnalog0and4, 185000); //sub activity
     sceneNumberLCDActivity(sceneGlobalReciever); //sub activity   
 }
 
@@ -50,9 +50,8 @@ void basicCrosslineTracingActivity(){
     if(pa0 > whiteLineColorValue && pa4 > whiteLineColorValue){
         intCrosslineCounter++;
         switch(intCrosslineCounter){
+
           case 1:
-          /*1.In a distant place there is a policeman named Leinard, 
-          He was known as the most reliable policeman in their neighborhood.*/
           sceneGlobalReciever = 1;
           LRmotorsSpeedGlobalReciever = 50;
           fd(LRmotorsSpeedGlobalReciever); sleep(790);
@@ -60,8 +59,6 @@ void basicCrosslineTracingActivity(){
         break;
 
           case 2:
-          /*2.he patrols every day to keep the peace in their place, 
-          this is one of his favorite job, serving the people.*/
           sceneGlobalReciever = 2;
           LRmotorsSpeedGlobalReciever = 100;
           fd(LRmotorsSpeedGlobalReciever); sleep(170);
@@ -76,15 +73,11 @@ void basicCrosslineTracingActivity(){
         break;
 
           case 4:
-          /*3.He went to a park to check the people's safety, 
-          later on, he noticed a man that behaving strangely.*/
           sceneGlobalReciever = 3;
           fd(LRmotorsSpeedGlobalReciever); sleep(1470);
         break;
          
           case 5:
-          /*4.The strange man shouted: "I'm carrying a bag that contains a bomb!"
-          People starts to panic, but Leinard's bravery starts to kicks in.*/
           sceneGlobalReciever = 4;
           LRmotorsSpeedGlobalReciever = 10;
           RmotorsSpeedGlobalReciever = 10;
@@ -96,8 +89,6 @@ void basicCrosslineTracingActivity(){
         break;
         
           case 6:
-          /*5. He immediately grab the bag and put the bomb inside his vehicle!
-          He went to nearest open area where he can drop the bomb.*/
           sceneGlobalReciever = 5;
           pa8obj(true,1,5,7);
           LRmotorsSpeedGlobalReciever = 500;
@@ -107,8 +98,6 @@ void basicCrosslineTracingActivity(){
         break;
 
           case 7:
-          /*6. In the middle of Leinard's haste, he's about to reach 
-          his destination but suddenly, there's a big chunk of wood that blocks the road!*/
           sceneGlobalReciever = 6;
           LRmotorsSpeedGlobalReciever = 1000;
           fd(LRmotorsSpeedGlobalReciever); sleep(170);
@@ -125,8 +114,6 @@ void basicCrosslineTracingActivity(){
         break;
 
          case 9:
-         /*7.The bomb was about to explode but he had not yet reached the open area. 
-         When he reached the open area, he immediately threw the bomb there and the bomb exploded there.*/
          sceneGlobalReciever = 7;
          fd(LRmotorsSpeedGlobalReciever); sleep(2200);
          pa8obj(false,0,0,0); 
@@ -141,19 +128,15 @@ void basicCrosslineTracingActivity(){
          beep(); sleep(500); // 2nd beep before explosion
          beep(); sleep(500); // 3rd beep before explosion
          sceneGlobalReciever = 7.5;
-         tl(LmotorsSpeedGlobalReciever); sleep(1422);
+         tl(LmotorsSpeedGlobalReciever); sleep(1562);
          LRmotorsSpeedGlobalReciever = 1000;
         break;
 
          case 11: 
-          sceneGlobalReciever = 7.9;
           tl(LmotorsSpeedGlobalReciever); sleep(1422);
         break;
         
          case 12:
-         /*8.As he completed his mission, he went back to checks the people safety,
-          when he got there he was greeted by the people there 
-          “You're  a hero to be relied upon by all ”.*/
          sceneGlobalReciever = 8;
          fd(LRmotorsSpeedGlobalReciever); sleep(90);
          LRmotorsSpeedGlobalReciever = 100;
