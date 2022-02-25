@@ -128,7 +128,7 @@ void basicCrosslineTracingActivity(){
          beep(); sleep(500); // 2nd beep before explosion
          beep(); sleep(500); // 3rd beep before explosion
          sceneGlobalReciever = 7.5;
-         tl(LmotorsSpeedGlobalReciever); sleep(1562);
+         tl(LmotorsSpeedGlobalReciever); sleep(1462);
          LRmotorsSpeedGlobalReciever = 1000;
         break;
 

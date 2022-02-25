@@ -10,6 +10,6 @@
 @vis_point=True
 @color_point=255,0,0,255
 @robot_type=10
-@ground_name=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\projects that remain unfinished\ThePolicemansBravery\src\images\map01.png
-@trackline_filename=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\projects that remain unfinished\ThePolicemansBravery\backend\MainActivity.trl
-@include_trackline = False
+@ground_name=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\finished\ThePolicemansBravery\src\drawable-maps\map01.png
+@trackline_filename=C:\Users\HP\Desktop\Adan - Robotics\github_clones\c_robot_simulator_projects\finished\ThePolicemansBravery\back-end\MainActivity.trl
+@include_trackline=False
