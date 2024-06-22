@@ -1,9 +1,7 @@
-# ThePolicemansBravery
-Team CHS Entry for the DSTC : Robotics Camp &amp; Coding Competition, Robot Story Making
-Trainer : Jeffrey Galino
+# THE POLICEMAN BRAVERY (C ROBOT SIMULATOR)
+[![Programmed & Design by Danielle Adan](https://img.shields.io/badge/Programmed_%26_Designed%20by-Danielle_Adan-red.svg?longCache=true&style=for-the-badge)](https://facebook.com/ryuzakilovescoding) <br/>
+[![Conceptualized by John Leinard Flores](https://img.shields.io/badge/Conceptualized%20by-John_Leinard_Flores-green.svg?longCache=true&style=for-the-badge)](https://facebook.com/ryuzakilovescoding)
 
-Main Programmer : Danielle Adan
-Story & Map Illustration : Leinard Flores
-Map Visualized & Designed by : Danielle Adan
-
-Simulator : INEX C Robot Simulator
+Team CHS is proud to present our entry for the DSTC's Robotics Camp & Coding Competition, Robot Story Making category. Our team is comprised of Jeffrey Galino as the trainer, Danielle Adan as the main programmer, Leinard Flores who created the story and map illustrations, and Danielle Adan who also visualized and designed the map. We utilized the INEX C Robot Simulator to bring our robot story to life.
+ <br/> <br/>
+[![How to install C Robot Simulator?](https://img.shields.io/badge/_INFO_-HOW%20TO%20INSTALL%20C%20ROBOT%20SIMULATOR%3F-8A2BE2)](https://www.suntos.com.np/robotics-bootcamp/installing-robotics-simulator.html#installation) [![CHS Robotics Club Boot Camp 2022](https://img.shields.io/badge/_INFO_-CHS_ROBOTICS_CLUB_BOOT_CAMP_2022-8A2BE2)](https://www.facebook.com/danielleadan.educacc/posts/pfbid02phtUoHNvVhUDueFK2FvKXaDiT4rYadcNaCnoNnw69LH6fDHfrNaHWyBHrPAAyLiLl) [![DOST Robotics Camp & Coding Competitition](https://img.shields.io/badge/_INFO_-DOST_CAMP_AND_CODING_COMPETITION_2022-8A2BE2)](https://www.facebook.com/danielleadan.educacc/posts/pfbid02SV6kKbkYohDqW16DpY69n6vZY3vkFdi3DZMu4yCFkd1wBP3kEwgPGWukcre2F3Lpl)
